@@ -1,25 +1,90 @@
-hedge
-dividend
-earnings
+Asset Liability Managers
+Jerome Powell Press Conference
+Fed Press Conference
+Federal Open Market Commitee
+FOMC
+European Central Bank
+Bank of Japan
+federal funds rate
+falling inflation
+rising inflation
 inflation
-markets
-bonds
-debt
+gas price
+Oil Price
+TIIPs
+Fed Hike
+Rate Hike
+US Treasuries
+Bond Future
+muni bonds
+bond markets
+Bunds
+Gilts
+sovereign debt
+Bond Issuance
+Federal Reserve
+OIS Spread
+IG Spread
+Mortgage Spread
 financial markets
 gains
+wallstbets
+wall street bets
+options trading
+GME
 investment
+Nasdaq
+SP500
+SPY
+QQQ
+Tax Return
+Tax Hike
+Tax Cut
 growth
+SBA Loans
 derivatives
-crisis
-unemployment
+banking crisis
+financial crisis
+Housing Crash
+houses for sale
+Mortgage Rates
+Credit Score
+recession
+depression
+paycheck
+Tax Break
+Consumer Spending
+Core PCE
+Federal Funds Rate
+Fed Pivot
+Powell
+Jerome Powell
+Janet Yellen
+el nino
+unemployment rate
+jobs search
+remote jobs
 banking
+bonus cuts
 dow jones
 economy
 stocks
+stonks
+HY Credit Spreads
+Modern Monetary Theory
+strip clubs
+casino near me
 economics
-invest
-profit
+VIX
 leverage
+cryptocurrency
+Web3.0
+Artificial Intelligence
+Chatgpt
+OpenAI
+Stable Diffusion
+Elon Musk
+Crypto Whale
 risk
 revenue
 nasdaq
@@ -27,72 +92,65 @@ metals
 politics
 consumption
 cash
-finance
-portfolio
+savings account
+personal finance
+stock portfolio
+investment portfolio
+bond mutual fund
 conflict
+negative rates
 oil
 fed
 gain
 short selling
 energy
 credit
+credit consolidation
+my free credit score
+Credit Default Swaps
+CDX Spread
 loss
 stock market
-transaction
 housing
 nyse
+crash
 success
 bubble
 trader
-environment
-greed
 opportunity
+suicide
+Putin
+Jim Cramer
+Smart Beta
+earnings
 money
 sell
 returns
-society
-chance
-present
-world
 rich
 war
 return
 crash
-freedom
-office
-headlines
+market crash
+Amazon
+remote work
+office space for rent
+quantitative easing
+quantitative tightening
 house
-culture
-arts
-buy
-ore
-food
-tourism
-holiday
-health
-train
-fine
-gold
-marriage
-water
-cancer
-car
 travel
+flights
+Cruise
 happy
 forex
+business loan
 restaurant
-default
-ring
-lifestyle
+food delivery
 labor
-fond
-religion
-rare earths
-home
-kitchen
-garden
-fun
-movie
-consume
+money market fund
+showtimes
+escort service
 short sell
-color
+china
+Bank of Canada
+Swiss Central Bank
+International Monetary Fund
