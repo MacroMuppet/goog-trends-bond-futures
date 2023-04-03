@@ -1,25 +1,31 @@
-# Google Trends Financial Modeling
-## Ming Fong and Alexander Yang
-STAT 198 Quantitative Finance
+# Google Trends Bond Futures Modeling
+## Credit For beginning equityindex code - Ming Fong and Alexander Yang 
 
-Fall 2020
+## Introduction - 4/3/23 
 
-## Introduction
+For speed, I will script_kiddy massage Ming/Fong/Datadunce's existing code to prelim test Momo AND MeanRev trading strats for US Treasury Futures 
+based on Google Trend data for certain selected keywords.
 
-We implement a trading strategy for an index (NASDAQ) based on moving averages of changes in Google Trend data for certain selected keywords.
+##Alternative Data- 4/3/23 
+Google Trends search volume data = punting US Treasury Futures or index/crypto/equity/future.
 
-The notebook can be found in `Presentation Notebook.ipynb`
+As retail, tough to pay $$ for granular Time and Sales numbers... so prelim daily historicals from [yfinance](https://pypi.org/project/yfinance/) for now.
 
-## Alternative Data
-We will use Google Trends search volume data to make predictions about the movements of an index.
+Will work on mashing /Datadunce 's barchart code later (https://gist.github.com/cf7ad12df1a3d74fd8fee28e16639419.git).
 
-Data is downloaded through the [Pytrends](https://pypi.org/project/pytrends/) module using the Google Trends API.
+TrendData is downloaded through the [Pytrends](https://pypi.org/project/pytrends/) module using the Google Trends API.
 
-Financial data is from [yfinance](https://pypi.org/project/yfinance/)
-
+##Rudimentary BackTesting
 Backtesting is done using the [Backtesting.py](https://kernc.github.io/backtesting.py/) package
 
-## Resources
-Paper to implement: https://www.researchgate.net/publication/326503702_Algorithmic_Trading_Systems_Based_on_Google_Trends
+##Beginning Hypothesis of Results 4/3/23
+- Daily close historicals not enough to run real money. Need Extended Hours 1min + Reg Hours 1min + ICE Exchange Interest Rate Swap 1min Data 
 
+
+
+
+## Resources
+Papers: https://www.researchgate.net/publication/326503702_Algorithmic_Trading_Systems_Based_on_Google_Trends
 https://jackdry.com/predicting-realized-volatility-using-google-trends
+
+#Future Credit to Datadunce if I get around to Barchart 1min implementation
