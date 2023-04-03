@@ -20,9 +20,10 @@ TrendData is downloaded through the [Pytrends](https://pypi.org/project/pytrends
 Backtesting is done using the [Backtesting.py](https://kernc.github.io/backtesting.py/) package
 
 ## Beginning Hypothesis of Results - 4/3/23
-- Daily close historicals not enough to run real money. Need Extended Hours 1min + Reg Hours 1min + ICE Exchange Interest Rate Swap 1min Data 
 
-
+High-Level Personal Bias: Daily close historicals not enough to run real money. Need Extended Hours 1min + Reg Hours 1min + ICE Exchange Interest Rate Swap 1min Data 
+Momo Bias - Will be undwhelming 2015 - 2017 and will work in spurts correlated to recent fed hiking cycle
+MeanRev Bias - promising enough for me to waste time on this
 
 
 ## Resources
