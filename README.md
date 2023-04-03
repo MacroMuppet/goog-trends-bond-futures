@@ -1,6 +1,4 @@
 # Google Trends Bond Futures Modeling
-## Credit For beginning equityindex code - Ming Fong and Alexander Yang 
-## Future Credit to Datadunce if I get around to Barchart 1min implementation
 
 ## Introduction - 4/3/23 
 
@@ -31,3 +29,6 @@ Papers: https://www.researchgate.net/publication/326503702_Algorithmic_Trading_S
 https://jackdry.com/predicting-realized-volatility-using-google-trends
 Datadunce Barchart 1min code - (https://gist.github.com/cf7ad12df1a3d74fd8fee28e16639419.git)
 https://pypi.org/project/yahoofinancials/ 
+
+## Credit For beginning equityindex code - Ming Fong and Alexander Yang 
+## Future Credit to Datadunce if I get around to Barchart 1min implementation
