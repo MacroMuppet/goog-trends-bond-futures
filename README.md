@@ -1,10 +1,11 @@
 # Google Trends Bond Futures Modeling
 ## Credit For beginning equityindex code - Ming Fong and Alexander Yang 
+## Future Credit to Datadunce if I get around to Barchart 1min implementation
 
 ## Introduction - 4/3/23 
 
-For speed, I will script_kiddy massage Ming/Fong/Datadunce's existing code to prelim test Momo AND MeanRev trading strats for US Treasury Futures 
-based on Google Trend data for certain selected keywords.
+For speed, I will scriptkiddye Ming/Fong/Datadunce's existing code to prelim test Momo AND MeanRev trading strats for US Treasury Futures 
+based on Google Trend data for certain selected keywords. After general delta 1 move backtests on daily closes, will implement Relative Value Aspects
 
 ##Alternative Data- 4/3/23 
 Google Trends search volume data = punting US Treasury Futures or index/crypto/equity/future.
@@ -28,4 +29,4 @@ Backtesting is done using the [Backtesting.py](https://kernc.github.io/backtesti
 Papers: https://www.researchgate.net/publication/326503702_Algorithmic_Trading_Systems_Based_on_Google_Trends
 https://jackdry.com/predicting-realized-volatility-using-google-trends
 
-#Future Credit to Datadunce if I get around to Barchart 1min implementation
+
