@@ -10,7 +10,7 @@ Google Trends search volume data = punting US Treasury Futures or index/crypto/e
 
 Will work on mashing /Datadunce 's barchart code later (https://gist.github.com/cf7ad12df1a3d74fd8fee28e16639419.git).
 
-TrendData is downloaded through the [Pytrends](https://pypi.org/project/pytrends/) module using the Google Trends API.
+~TrendData is downloaded through the [Pytrends](https://pypi.org/project/pytrends/) module using the Google Trends API.~ I'll reserve how I got daily granular data for my next employer and their investors/shareholders.
 
 ## Rudimentary BackTesting
 Backtesting is done using the [Backtesting.py](https://kernc.github.io/backtesting.py/) package
