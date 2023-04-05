@@ -8,8 +8,6 @@ based on Google Trend data for certain selected keywords. After general delta 1 
 ## Alternative Data- 4/3/23 
 Google Trends search volume data = punting US Treasury Futures or index/crypto/equity/future.
 
-As retail, tough to pay $$ for granular Time and Sales numbers... so prelim daily historicals from [yfinance](https://pypi.org/project/yfinance/) for now.
-
 Will work on mashing /Datadunce 's barchart code later (https://gist.github.com/cf7ad12df1a3d74fd8fee28e16639419.git).
 
 TrendData is downloaded through the [Pytrends](https://pypi.org/project/pytrends/) module using the Google Trends API.
